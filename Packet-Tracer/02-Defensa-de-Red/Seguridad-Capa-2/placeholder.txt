@@ -1,0 +1,12 @@
+Tema: Seguridad Capa 2
+Ruta: Packet-Tracer/02-Defensa-de-Red/Seguridad-Capa-2
+
+DHCP Snooping, Dynamic ARP Inspection, BPDU Guard y mitigación de ataques de capa 2.
+
+Contenido previsto:
+- Archivo(s) .pkt de Packet Tracer
+- Capturas de la topología
+- Configuraciones (running-config) de los dispositivos
+- Notas y conclusiones de la práctica
+
+(Archivo provisional: reemplazar o eliminar cuando se agregue el contenido real.)

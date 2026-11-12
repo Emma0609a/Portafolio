@@ -1,0 +1,12 @@
+Tema: PPP y HDLC
+Ruta: Packet-Tracer/08-WAN-y-Conectividad/PPP-y-HDLC
+
+Enlaces seriales con PPP, autenticación PAP/CHAP.
+
+Contenido previsto:
+- Archivo(s) .pkt de Packet Tracer
+- Capturas de la topología
+- Configuraciones (running-config) de los dispositivos
+- Notas y conclusiones de la práctica
+
+(Archivo provisional: reemplazar o eliminar cuando se agregue el contenido real.)

@@ -1,0 +1,12 @@
+Tema: DHCP
+Ruta: Packet-Tracer/05-Servicios-de-Red/DHCP
+
+Servidor DHCP en router y en servidor, relay DHCP.
+
+Contenido previsto:
+- Archivo(s) .pkt de Packet Tracer
+- Capturas de la topología
+- Configuraciones (running-config) de los dispositivos
+- Notas y conclusiones de la práctica
+
+(Archivo provisional: reemplazar o eliminar cuando se agregue el contenido real.)

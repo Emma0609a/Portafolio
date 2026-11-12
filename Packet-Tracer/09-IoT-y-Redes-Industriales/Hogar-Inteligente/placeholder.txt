@@ -1,0 +1,12 @@
+Tema: Hogar Inteligente
+Ruta: Packet-Tracer/09-IoT-y-Redes-Industriales/Hogar-Inteligente
+
+Dispositivos IoT gestionados desde un gateway doméstico.
+
+Contenido previsto:
+- Archivo(s) .pkt de Packet Tracer
+- Capturas de la topología
+- Configuraciones (running-config) de los dispositivos
+- Notas y conclusiones de la práctica
+
+(Archivo provisional: reemplazar o eliminar cuando se agregue el contenido real.)

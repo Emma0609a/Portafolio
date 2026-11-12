@@ -1,0 +1,12 @@
+Tema: VPN Site to Site IPsec
+Ruta: Packet-Tracer/02-Defensa-de-Red/VPN-Site-to-Site-IPsec
+
+Túnel VPN IPsec entre dos sedes.
+
+Contenido previsto:
+- Archivo(s) .pkt de Packet Tracer
+- Capturas de la topología
+- Configuraciones (running-config) de los dispositivos
+- Notas y conclusiones de la práctica
+
+(Archivo provisional: reemplazar o eliminar cuando se agregue el contenido real.)

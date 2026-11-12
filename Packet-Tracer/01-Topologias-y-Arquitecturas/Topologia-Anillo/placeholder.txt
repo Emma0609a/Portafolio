@@ -1,0 +1,12 @@
+Tema: Topologia Anillo
+Ruta: Packet-Tracer/01-Topologias-y-Arquitecturas/Topologia-Anillo
+
+Simulación de una topología en anillo.
+
+Contenido previsto:
+- Archivo(s) .pkt de Packet Tracer
+- Capturas de la topología
+- Configuraciones (running-config) de los dispositivos
+- Notas y conclusiones de la práctica
+
+(Archivo provisional: reemplazar o eliminar cuando se agregue el contenido real.)

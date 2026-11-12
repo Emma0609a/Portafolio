@@ -1,0 +1,12 @@
+Tema: Topologia Bus
+Ruta: Packet-Tracer/01-Topologias-y-Arquitecturas/Topologia-Bus
+
+Simulación de una topología en bus.
+
+Contenido previsto:
+- Archivo(s) .pkt de Packet Tracer
+- Capturas de la topología
+- Configuraciones (running-config) de los dispositivos
+- Notas y conclusiones de la práctica
+
+(Archivo provisional: reemplazar o eliminar cuando se agregue el contenido real.)

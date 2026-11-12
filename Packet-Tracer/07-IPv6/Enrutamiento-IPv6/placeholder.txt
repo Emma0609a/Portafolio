@@ -1,0 +1,12 @@
+Tema: Enrutamiento IPv6
+Ruta: Packet-Tracer/07-IPv6/Enrutamiento-IPv6
+
+Rutas estáticas IPv6 y OSPFv3.
+
+Contenido previsto:
+- Archivo(s) .pkt de Packet Tracer
+- Capturas de la topología
+- Configuraciones (running-config) de los dispositivos
+- Notas y conclusiones de la práctica
+
+(Archivo provisional: reemplazar o eliminar cuando se agregue el contenido real.)

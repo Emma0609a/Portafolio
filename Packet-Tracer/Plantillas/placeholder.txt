@@ -1,0 +1,12 @@
+Tema: Plantillas
+Ruta: Packet-Tracer/Plantillas
+
+Plantillas base reutilizables (.pkt) y formato de documentación de prácticas.
+
+Contenido previsto:
+- Archivo(s) .pkt de Packet Tracer
+- Capturas de la topología
+- Configuraciones (running-config) de los dispositivos
+- Notas y conclusiones de la práctica
+
+(Archivo provisional: reemplazar o eliminar cuando se agregue el contenido real.)

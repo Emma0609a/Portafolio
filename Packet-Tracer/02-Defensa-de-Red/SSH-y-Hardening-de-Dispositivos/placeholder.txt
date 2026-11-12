@@ -1,0 +1,12 @@
+Tema: SSH y Hardening de Dispositivos
+Ruta: Packet-Tracer/02-Defensa-de-Red/SSH-y-Hardening-de-Dispositivos
+
+Acceso remoto seguro por SSH y endurecimiento de routers y switches.
+
+Contenido previsto:
+- Archivo(s) .pkt de Packet Tracer
+- Capturas de la topología
+- Configuraciones (running-config) de los dispositivos
+- Notas y conclusiones de la práctica
+
+(Archivo provisional: reemplazar o eliminar cuando se agregue el contenido real.)

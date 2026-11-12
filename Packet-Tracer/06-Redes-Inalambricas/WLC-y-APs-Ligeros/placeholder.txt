@@ -1,0 +1,12 @@
+Tema: WLC y APs Ligeros
+Ruta: Packet-Tracer/06-Redes-Inalambricas/WLC-y-APs-Ligeros
+
+Controlador de LAN inalámbrica con APs gestionados.
+
+Contenido previsto:
+- Archivo(s) .pkt de Packet Tracer
+- Capturas de la topología
+- Configuraciones (running-config) de los dispositivos
+- Notas y conclusiones de la práctica
+
+(Archivo provisional: reemplazar o eliminar cuando se agregue el contenido real.)

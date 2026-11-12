@@ -1,0 +1,12 @@
+Tema: Red Campus Empresarial
+Ruta: Packet-Tracer/01-Topologias-y-Arquitecturas/Red-Campus-Empresarial
+
+Diseño de red de campus para una empresa con varias sedes o edificios.
+
+Contenido previsto:
+- Archivo(s) .pkt de Packet Tracer
+- Capturas de la topología
+- Configuraciones (running-config) de los dispositivos
+- Notas y conclusiones de la práctica
+
+(Archivo provisional: reemplazar o eliminar cuando se agregue el contenido real.)
